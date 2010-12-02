@@ -1,3 +1,4 @@
 M2Haskell
 =========
-This is a readme.
+
+Instructions:
