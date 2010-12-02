@@ -1,0 +1,5 @@
+*.sqlite
+*.o
+*.hi
+logs/
+run/
